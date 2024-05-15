@@ -29,24 +29,25 @@ h1 img{
     width: 150px;
     height: auto;
 }
-.icon{
-    text-align: center;
+/* .icon{
+     text-align: center;
     align-self: center;
-    justify-items: center;
-}
+    justify-items: center; 
+} */
+
 .headbutt{
     margin-left:  10px;
 }
 
 .avater{
-    text-align: center;
+    /* text-align: center;
     align-self: center;
-    justify-content: center;
+    justify-content: center; */
     /* margin-top: 10px; */
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    border: 1px #ff0000 solid;
+    /* border: 1px #ff0000 solid; */
 }
 
 .headbutt-main{
